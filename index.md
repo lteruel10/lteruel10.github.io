@@ -1,5 +1,5 @@
 # Welcome to My GitHub Page
-
+Dicen que tarda mucho en actualizar///// será?
 You can use the [editor on GitHub](https://github.com/lteruel10/lteruel10.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
